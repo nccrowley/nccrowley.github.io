@@ -29,4 +29,6 @@
 
 <a href="https://www.sebogo.es/blog/destinos/12-razones-para-visitar-la-hermosa-montreal">Link to Publisher Site - Sebogo</a>
 
-<a href="http://staging17.justfly.com/">Link to Publisher Site - Justfly</a>
+<a href="https://www.cheapair.com/flights/results?jsr=(cabinRequested:Y,filters:(airlineFilters:!(),airlineView:YY,airportsToExclude:!(!(),!()),alliances:!(),excludeULCC:!f,maxStops:-1,requiredAmenities:!(),selectedFlights:!(),timeFilters:!((departFromTime:%270%27,departToTime:%272359%27),(departFromTime:%270%27,departToTime:%272359%27))),legNum:1,legs:!((date:%272021-09-23%27,fromLocId:CLAX,toLocId:CBOS),(date:%272021-09-25%27,fromLocId:CBOS,toLocId:CLAX)),numpax:%2710000%27,refundableOnly:!f,searchId:243917045)&sa=true">Link to Publisher Site - Cheapair</a>
+
+
